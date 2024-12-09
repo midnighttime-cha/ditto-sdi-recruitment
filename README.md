@@ -38,5 +38,5 @@
 มีใจรักงานบริการ งานขาย ชอบพบปะลูกค้า จบการศึกษา ระดับปริญญาตรี สาขาวิศวกรรมคอมพิวเตอร์, วิทยาการคอมพิวเตอร์, เทคโนโลยีสารสนเทศ หรือสาขาที่เกี่ยวข้อง
 
 ## สนใจติดต่อ
-Email: chawalit@dittothailand.com
-LineID: midnighttime
+- Email: chawalit@dittothailand.com
+- LineID: midnighttime
