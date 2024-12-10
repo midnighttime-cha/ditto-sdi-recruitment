@@ -1,8 +1,8 @@
 # บริษัท ดิทโต้ (ประเทศไทย) จำกัด มหาชน เปิดรับสมัครบุคคล ตามรายละเอียดต่อไปนี้
 
-<img src="./1.jpg" width="50%" />
-
 ## 1. ตำแหน่ง Senior Software Developer จำนวน 2 ตำแหน่ง
+
+<img src="./1.jpg" width="50%" />
 
 ### Job Description
 - วิเคราะห์ ออกแบบ และพัฒนาระบบระบบใหม่ FrontEnd หรือ BackEnd ที่ได้รับมอบหมาย ร่วมกับทีม
@@ -18,9 +18,9 @@
 - มีความรู้ด้าน Infrastructure
 - ความรู้และความสามารถด้าน เทคโนโลยี Digital Marketing (ถ้ามี)
 
-<img src="./2.jpg" width="50%" />
-
 ## 2. ตำแหน่ง Senior Graphic Designer, UX/UI Designer จำนวน 2 ตำแหน่ง
+
+<img src="./2.jpg" width="50%" />
 
 ### Job Description
 - วิเคราะห์ ออกแบบ UX/UI ร่วมกับทีมวิเคราะห์ระบบ
