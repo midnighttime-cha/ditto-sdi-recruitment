@@ -34,7 +34,7 @@
 
 ## 3. ตำแหน่งนักวิเคราะห์ระบบ System Analyst จำนวน 1 ตำแหน่ง
 
-<img src=./System Analyst position.png" width="50%" />
+<img src="./System Analyst position.png" width="50%" />
 
 ### Job Description
 - <b>การวิเคราะห์ความต้องการ:</b> ทำความเข้าใจและวิเคราะห์ความต้องการของผู้ใช้และธุรกิจ เพื่อออกแบบระบบที่ตอบสนองความต้องการเหล่านั้น
